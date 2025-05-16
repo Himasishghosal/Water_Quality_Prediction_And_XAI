@@ -1,4 +1,4 @@
-# Water_Quality_Prediction_And_XAI
+# MA5755-Water_Quality_Prediction_And_XAI
 Enhancing Water Quality Prediction Using Machine Learning and Explainable AI: A Transparent Approach to Water Quality Index (WQI) Prediction and Interpretation.
 
 In this (Data Visualization and Analysis
